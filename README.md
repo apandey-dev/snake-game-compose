@@ -1,6 +1,26 @@
 # 🐍 Minimal Snake Game (Android Jetpack Compose)
 
-A modern, ultra-minimalist Snake game designed for Android using **Kotlin** and **Jetpack Compose**. Featuring pure swipe gesture controls, AMOLED pitch black and clean day themes, Mali typography, and custom zero-waste bottom sheets.
+<p align="center">
+  <a href="https://github.com/apandey-dev/snake-game-compose/releases/latest">
+    <img src="https://img.shields.io/badge/Download_APK-v1.0.0-3B82F6?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" />
+  </a>
+  <a href="https://github.com/apandey-dev/snake-game-compose/releases">
+    <img src="https://img.shields.io/github/v/release/apandey-dev/snake-game-compose?style=for-the-badge&color=10B981" alt="Latest Release" />
+  </a>
+  <img src="https://img.shields.io/badge/APK_Size-1.94_MB-8B5CF6?style=for-the-badge" alt="APK Size" />
+  <img src="https://img.shields.io/badge/License-MIT-F59E0B?style=for-the-badge" alt="License" />
+</p>
+
+A modern, ultra-minimalist Snake game designed for Android using **Kotlin** and **Jetpack Compose**. Featuring pure swipe gesture controls, AMOLED pitch black and clean day themes, Mali typography, R8 security obfuscation, and custom zero-waste bottom sheets.
+
+---
+
+## 📥 Direct APK Download
+
+Download the signed, secure, and ultra-compressed **Universal Release APK** directly:
+- 📦 **[Snake-v1.0.0-Universal-Release.apk (1.94 MB)](https://github.com/apandey-dev/snake-game-compose/releases/download/v1.0.0/Snake-v1.0.0-Universal-Release.apk)**
+- **Compatibility**: Android 7.0 (Nougat / API 24) and above up to Android 15+.
+- **Security**: Full R8 code obfuscation & resource shrinking (anti-reverse engineering).
 
 ---
 
